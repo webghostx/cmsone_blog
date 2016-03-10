@@ -5,6 +5,6 @@ Blog Addon für CMS One
 
 **Features:**
 * Blog in Kategorie chronologisch sortiert
-* Kommentare in Modul damit in Slice gespeichert
+* Kommentar-Funktion in Modul ablegen und in Slice speichern
 * Verbindung zu OpenID
 * Tags
